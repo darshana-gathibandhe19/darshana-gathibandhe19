@@ -1,6 +1,6 @@
 # Hi, I'm Darshana Gathibandhe! 👋
 
-### Data Engineer | IoT Specialist | Cybersecurity Enthusiast
+### Data Engineer
 *Passionate about building scalable data pipelines, real-time monitoring systems, and automated security solutions.*
 
 ---
