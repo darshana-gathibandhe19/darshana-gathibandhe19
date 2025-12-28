@@ -26,16 +26,8 @@
 
 ## 🔧 Skills & Tools
 ```text
-* Languages: Python, SQL
+* Languages:        Python, SQL
 * Data Engineering: Airflow, Snowflake, ETL, Docker
-* Analytics & Viz: Power BI, Pandas, Matplotlib
-* Security: Log Analysis, Threat Detection, Regex
-* Tools: Git, GitHub, Linux
-
----
-
-## 📫 Connect with me
-```text
-* LinkedIn: [linkedin.com/in/darshana-gathibandhe-analyst](https://www.linkedin.com/in/darshana-gathibandhe-analyst/)
-* Email:    darshanagathibandhe@gmail.com
-* Portfolio: [github.com/darshana-gathibandhe19](https://github.com/darshana-gathibandhe19)
+* Analytics & Viz:  Power BI, Pandas, Matplotlib
+* Security:         Log Analysis, Threat Detection, Regex
+* Tools:            Git, GitHub, Linux
