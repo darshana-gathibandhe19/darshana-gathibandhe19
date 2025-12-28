@@ -26,11 +26,11 @@
 
 ## 🔧 Skills & Tools
 ```text
-* Languages:        Python, SQL
-* Data Engineering: Airflow, Snowflake, ETL, Docker
-* Analytics & Viz:  Power BI, Pandas, Matplotlib
-* Security:         Log Analysis, Threat Detection, Regex
-* Tools:            Git, GitHub, Linux
+Languages:        Python, SQL
+Data Engineering: Airflow, Snowflake, ETL, Docker
+Analytics & Viz:  Power BI, Pandas, Matplotlib
+Security:         Log Analysis, Threat Detection, Regex
+Tools:            Git, GitHub, Linux
 ```
 ## 📫 Connect with me
 
