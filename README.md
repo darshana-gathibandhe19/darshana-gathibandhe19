@@ -31,3 +31,11 @@
 * Analytics & Viz:  Power BI, Pandas, Matplotlib
 * Security:         Log Analysis, Threat Detection, Regex
 * Tools:            Git, GitHub, Linux
+```
+## 📫 Connect with me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/darshana-gathibandhe-analyst](https://www.linkedin.com/in/darshana-gathibandhe-analyst/) |
+| **Email** | [darshanagathibandhe@gmail.com](mailto:darshanagathibandhe@gmail.com) |
+| **Portfolio** | [github.com/darshana-gathibandhe19](https://github.com/darshana-gathibandhe19) |
